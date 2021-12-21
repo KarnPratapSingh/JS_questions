@@ -1,4 +1,4 @@
-//QUESTION
+//QUESTION:
 // input: ["apple","banana","orange"]
 //   output:"apple,banana,orange"
   
